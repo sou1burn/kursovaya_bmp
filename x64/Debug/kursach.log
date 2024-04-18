@@ -1,0 +1,6 @@
+﻿  kurs.cpp
+C:\Users\spike\source\repos\kursach\kurs.cpp(87,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\spike\source\repos\kursach\kurs.cpp(88,32): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+  kursach.vcxproj -> C:\Users\spike\source\repos\kursach\x64\Debug\kursach.exe
